@@ -1,0 +1,15 @@
+.ant-form-item-label {
+  text-align: left !important;
+}
+.form_action {
+  text-align: right !important;
+}
+.site_header-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+.site_header-wrapper h1 {
+  margin: 0;
+}
